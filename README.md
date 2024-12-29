@@ -14,11 +14,11 @@
 
 ###
 
-<p align="center">🔭 I’m currently building my ideas and trying to be an 1000x dev<br><br>🌱 I’m currently learning React Native<br><br>👨‍💻 All of my projects are available at oasadiq.vercel.app<br><br>💬 Ask me about react, typescript, tailwind, python, javascript, NodeJs<br><br>⚡ Fun fact I once tried learning astrophysics... until I realized coding was easier.</p>
+<p align="center">🔭 I’m currently building my ideas and trying to be an 1000x dev<br><br>🌱 I’m currently learning React Native<br><br>💬 Ask me about react, typescript, tailwind, python, javascript, NodeJs<br><br>⚡ Fun fact I once tried learning astrophysics... until I realized coding was easier.</p>
 
 ###
-
-<h3 align="center">🛠 Language and tools</h3>
+<br clear="both">
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -53,8 +53,8 @@
 </div>
 
 ###
-
-<h3 align="center">💻 My Contribuion</h3>
+<br clear="both">
+<h2 align="center">💻 My Contribuion</h2>
 
 ###
 
