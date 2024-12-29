@@ -54,6 +54,12 @@
 
 ###
 
+<h3 align="center">💻 My Contribuion</h3>
+
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/OAsadiq/OAsadiq/output/snake.svg" alt="Snake animation" />
 
 ###
