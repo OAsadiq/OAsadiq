@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently building my ideas and trying to be 100x better<br><br>🌱 I’m currently learning <h3>React Native<.</h3><br><br>💬 Ask me about <h3>react, typescript, tailwind, python, javascript, NodeJs</h3><br><br>⚡ Fun fact <h3>I once tried learning astrophysics... until I realized coding was easier.</h3></p>
+<p align="center">🔭 I’m currently building my ideas and trying to be 100x better<br><br>🌱 I’m currently learning React Native.<br><br>💬 Ask me about react, typescript, tailwind, python, javascript, NodeJs<br><br>⚡ Fun fact I once tried learning astrophysics... until I realized coding was easier.</p>
 
 ###
 <br clear="both">
